@@ -8,6 +8,8 @@
 |------|------|------|------|----------|
 | my-notes | v0.3.0 | Windows x64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.0/my-notes-v0.3.0-windows-x64.zip) | [更新日志](CHANGELOG.md) |
 | my-notes | v0.3.0 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.0/my-notes-v0.3.0-android.apk) | [更新日志](CHANGELOG.md) |
+| my-notes | v0.3.1 | Windows x64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.1/my-notes-v0.3.1-windows-x64.zip) | [更新日志](CHANGELOG.md) |
+| my-notes | v0.3.1 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.1/my-notes-v0.3.1-android.apk) | [更新日志](CHANGELOG.md) |
 
 ## 使用说明
 
