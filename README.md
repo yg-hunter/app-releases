@@ -6,6 +6,8 @@
 
 | 应用 | 版本 | 平台 | 下载 | 更新日志 |
 |------|------|------|------|----------|
+| my-notes | v0.7.0 | Windows x64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.7.0/my-notes-v0.7.0-windows-x64.zip) | [更新日志](CHANGELOG.md) |
+| my-notes | v0.7.0 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.7.0/my-notes-v0.7.0-android.apk) | [更新日志](CHANGELOG.md) |
 | my-notes | v0.5.0 | Windows x64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.5.0/my-notes-v0.5.0-windows-x64.zip) | [更新日志](CHANGELOG.md) |
 | my-notes | v0.5.0 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.5.0/my-notes-v0.5.0-android.apk) | [更新日志](CHANGELOG.md) |
 | my-notes | v0.3.0 | Windows x64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.0/my-notes-v0.3.0-windows-x64.zip) | [更新日志](CHANGELOG.md) |
