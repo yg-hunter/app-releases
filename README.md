@@ -16,8 +16,9 @@
 | my-notes | v0.3.1 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/v0.3.1/my-notes-v0.3.1-android.apk) | [更新日志](CHANGELOG.md) |
 | weight manager | v2.5.0 | Android 8.0+（通用） | [下载](https://github.com/yg-hunter/app-releases/releases/download/weight-manager-v2.5.0/weight-manager-v2.5.0.apk) | [更新日志](CHANGELOG.md) |
 | weight manager | v2.5.0 | Android arm64 | [下载](https://github.com/yg-hunter/app-releases/releases/download/weight-manager-v2.5.0/weight-manager-v2.5.0-arm64.apk) | [更新日志](CHANGELOG.md) |
-| family health assistant | v2.0.0 | Android（release 签名，推荐） | [下载](https://github.com/yg-hunter/app-releases/releases/download/family-health-assistant-v2.0.0/family-health-assistant-v2.0.0-android-release.apk) | [更新日志](CHANGELOG.md) |
-| family health assistant | v2.0.0 | Android（debug 备用） | [下载](https://github.com/yg-hunter/app-releases/releases/download/family-health-assistant-v2.0.0/family-health-assistant-v2.0.0-android.apk) | [更新日志](CHANGELOG.md) |
+| family health assistant | v2.1.0 | Android（release 签名，推荐） | [下载](https://github.com/yg-hunter/app-releases/releases/download/family-health-assistant-v2.1.0/family-health-assistant-v2.1.0-android-release.apk) | [更新日志](CHANGELOG.md) |
+
+> ⚠️ **family health assistant v2.0.0 已废弃下架**（存在「新建用药计划提示成员不存在」「服药时刻不可调」等缺陷）。已安装 v2.0.0 的用户请直接下载 v2.1.0 **覆盖安装**：签名相同，全部数据保留。请始终从本表或 [Releases 页](https://github.com/yg-hunter/app-releases/releases) 下载最新版本。
 
 ## 使用说明
 
